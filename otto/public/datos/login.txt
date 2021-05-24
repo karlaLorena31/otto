@@ -1,0 +1,7 @@
+{
+    "user": "eve.holt@reqres.in", "password":"cityslicka "
+}
+
+
+// cuando se ingresen con los datos recarguen la pagina para que se vea el navUser !!! es un error que estoy tratando de modificar 
+// esta hecho con vuex y axios
